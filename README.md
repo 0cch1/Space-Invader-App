@@ -16,4 +16,4 @@ This project is a classic Space Invader game where players shoot incoming enemie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/space-invader-app.git
+   git clone [https://github.com/username/space-invader-app.git](https://github.com/0cch1/Space-Invader-App.git)
